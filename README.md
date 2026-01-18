@@ -1,5 +1,5 @@
-<p align="center">
-# Hey👋, I'm Brooke:
+#<p align="center">
+Hey👋, I'm Brooke:
 </p>
 🔭 I’m currently working on Vision.ent, a MERN stack project<br>🌱 I’m currently learning Vue.js, Flutter, Pytorch..<br>
 
