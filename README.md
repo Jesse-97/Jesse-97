@@ -1,5 +1,5 @@
 <p align="center" size="4rem">
-Hey👋, I'm Brooke:
+<h1>Hey👋, I'm Brooke:</h1>
 </p>
 🔭 I’m currently working on Vision.ent, a MERN stack project<br>🌱 I’m currently learning Vue.js, Flutter, Pytorch..<br>
 
